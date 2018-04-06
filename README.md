@@ -2,7 +2,7 @@
 
 # About
 
-A simple back end for `twack-angular`.  Gets a token for a Twilio based chat application and returns it to the front end.
+A simple back end for [twack](https://github.com/cfsilence/twack).  Gets a token for a Twilio based chat application and returns it to the front end.
 
 There are three Gradle targets for running the application:
  
